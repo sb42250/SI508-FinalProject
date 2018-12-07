@@ -17,8 +17,11 @@ How to run the project:
 4. The main python file named final project.
   4.1 (optional) in this file, line 66 I use my own apikey of OMDB, you can use it or you can change it to your own.
   4.2 (REQUIRED!!!!!!) The most important part!!!!!!!!!!!!!!!
+      
       !!!!!!!!!!!!!!Please! Change! The! dbname! And! the! user! to your own!!!!!!!!!!!
+     
       !!!!!!!!!!!!!!Please! Change! The! dbname! And! the! user! to your own!!!!!!!!!!!
+      
       !!!!!!!!!!!!!!Please! Change! The! dbname! And! the! user! to your own!!!!!!!!!!!
 5. If you make sure you have already changed the dbname and the user, you can run the "finalproject" directly and the output is shown before.
 
