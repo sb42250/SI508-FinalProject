@@ -20,21 +20,21 @@ How to run the project:
       !!!!!!!!!!!!!!LINE111! Please! Change! The! dbname! And! the! user! to your own!!!!!!!!!!!
       
       !!!!!!!!!!!!!!LINE111! Please! Change! The! dbname! And! the! user! to your own!!!!!!!!!!!
-5. If you make sure you have already changed the dbname and the user, you can run the "finalproject" directly and the output is shown before.
+5. If you make sure you have already changed the dbname and the user, you can run the "finalproject" directly and the output is shown as "output".
 
 How to run the test:
 run it directly, and it will show like the screenshot "testoutput".
 
 list of the final project requirements I have chosen to fulfill:
 0. It is writen by python.
-1. two data sources: Twitter and OMDB, both of them using API
-2. Caching is implemented
+1. two data sources: Twitter and OMDB, both of them using API.
+2. Caching is implemented.
 3. Process data from each source and put in each class.
-4. Import and use functionality from at least one Python module sys.
+4. Import and use functionality from one Python module (sys).
 5. A test suite file containing 3 unittest.TestSuite subclasses and at least 10 test methods (beginning with test) which are non-trivial tests.
 6. Running the project should produce a product that is the result of processing data:a sql database.
 7. Define 2 classes: Movie and Tweeter.
 8. an example of output named "output".
-9. Using a library in Python that we did not study in SI 508 or use in any assignment / project: Tweepy
+9. Using a library in Python that we did not study in SI 508 or use in any assignment / project: Tweepy.
 10. Accessing two REST APIs
-11. A PostgreSQL database that includes two tables which have one relationship, from which useful queries can be made.
+11. A PostgreSQL database that includes two tables(Movies, Twitter) which have one relationship (movie title).
