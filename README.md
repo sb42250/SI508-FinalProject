@@ -31,7 +31,7 @@ list of the final project requirements I have chosen to fulfill:
 2. Caching is implemented.
 3. Process data from each source and put in each class.
 4. Import and use functionality from one Python module (sys).
-5. A test suite file containing 3 unittest.TestSuite subclasses and at least 10 test methods (beginning with test) which are non-trivial tests.
+5. A test suite file containing 3 unittest.TestSuite subclasses and at least 10 test methods (beginning with test) which are non-trivial tests.(assertIsInstance,assertEqual,assertIn)
 6. Running the project should produce a product that is the result of processing data:a sql database.
 7. Define 2 classes: Movie and Tweeter.
 8. an example of output named "output".
